@@ -20,7 +20,7 @@ I'm a passionate Mobile Developer who loves to explore and build amazing mobile 
 
 ### 📫 Get in touch
 
-- LinkedIn: [NIzar Mahi LinkedIn](https://linkedin.com/in/johndoe)
+- LinkedIn: [NIzar Mahi](https://linkedin.com/in/johndoe)
 - Email: [mahinizar7@gmail.com](mailto:mahinizar7@gmail.com)
 
 ---
@@ -34,5 +34,6 @@ I'm currently focusing on learning SwiftUI and Kotlin for native mobile developm
 ### 🐍 Snake Game Contribution Graph
 
 ![Snake animation](https://github.com/nizarmahi/nizarmahi/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
