@@ -13,7 +13,6 @@ I'm a passionate Mobile Developer who loves to explore and build amazing mobile 
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nizarmahi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nizarmahi&layout=compact&theme=radical)
 <!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nizarmahi&theme=radical)](https://git.io/streak-stats)
@@ -22,7 +21,7 @@ I'm a passionate Mobile Developer who loves to explore and build amazing mobile 
 
 ### 📫 Get in touch
 
-- LinkedIn: [Nizar Mahi](https://linkedin.com/in/johndoe)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/mochammadnizarmahi)
 - Email: [mahinizar7@gmail.com](mailto:mahinizar7@gmail.com)
 
 ---
