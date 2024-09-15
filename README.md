@@ -33,6 +33,6 @@ I'm currently focusing on learning SwiftUI and Kotlin for native mobile developm
 
 ### 🐍 Snake Game Contribution Graph
 
-![Snake animation](https://github.com/nizarmahi/nizarmahi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nizarmahi/nizarmahi/blob/output/github-snake-dark.svg)
 
 ---
