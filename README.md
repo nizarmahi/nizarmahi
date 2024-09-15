@@ -11,19 +11,6 @@ I'm a passionate Mobile Developer who loves to explore and build amazing mobile 
 
 ---
 
-### 🚀 Projects
-
-Here are some of my favorite projects:
-
-1. **[Awesome Mobile App](https://github.com/johndoe/awesome-mobile-app)** 
-   - A cross-platform mobile app built with Flutter. Features real-time updates using Firebase.
-   - ![App Demo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-2. **[React Native eCommerce](https://github.com/johndoe/react-native-ecommerce)**
-   - A full-featured eCommerce app built using React Native and Redux for state management.
-
----
-
 ### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nizarmahi&show_icons=true&theme=radical)
@@ -33,8 +20,8 @@ Here are some of my favorite projects:
 
 ### 📫 Get in touch
 
-- LinkedIn: [John Doe LinkedIn](https://linkedin.com/in/johndoe)
-- Email: [john.doe@example.com](mailto:mahinizar7@gmail.com)
+- LinkedIn: [NIzar Mahi LinkedIn](https://linkedin.com/in/johndoe)
+- Email: [mahinizar7@gmail.com](mailto:mahinizar7@gmail.com)
 
 ---
 
