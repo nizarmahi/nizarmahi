@@ -10,7 +10,7 @@ on:
   # Run on every push on master branch
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
